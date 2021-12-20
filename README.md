@@ -1,0 +1,1 @@
+# git-commit-editor-target-public
